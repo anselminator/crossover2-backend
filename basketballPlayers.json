@@ -1,0 +1,123 @@
+[
+    {
+    "country": "Germany",
+    "players": [
+        {
+            "name": "Dennis Schröder",
+            "height": "188 cm",
+            "age": 28,
+            "position": "point guard",
+            "club": "Houston Rockets"
+        },
+        {
+            "name": "Franz Wagner",
+            "height": "208 cm",
+            "age": 21,
+            "position": "guard",
+            "club": "Orlando Magic"
+        },
+        {
+            "name": "Daniel Theis",
+            "height": "204 cm",
+            "age": 30,
+            "position": "power forward",
+            "club": "Indiana Pacers"
+        },
+        {
+            "name": "Nick Weiler-Rabb",
+            "height": "196 cm",
+            "age": 26,
+            "position": "guard",
+            "club": "Bayern München"
+        },
+        {
+            "name": "Christian Sengfelder",
+            "height": "200 cm",
+            "age": 27,
+            "position": "power forward",
+            "club": "Brose Bamberg"
+        }
+    ] 
+  },
+  {
+    "country": "Serbia",
+    "players": [
+        {
+            "name": "Nikola Jokic",
+            "height": "209 cm",
+            "age": 27,
+            "position": "center",
+            "club": "Denver Nuggets"
+        },
+        {
+            "name": "Vasilije Micic",
+            "height": "196 cm",
+            "age": 28,
+            "position": "point guard",
+            "club": "Anadolu Efes"
+        },
+        {
+            "name": "Nikola Kalinic",
+            "height": "202 cm",
+            "age": 30,
+            "position": "small forward",
+            "club": "FC Barcelona"
+        },
+        {
+            "name": "Vladimir Lucic",
+            "height": "196 cm",
+            "age": 33,
+            "position": "forward",
+            "club": "Bayern München"
+        },
+        {
+            "name": "Marko Guduric",
+            "height": "197 cm",
+            "age": 27,
+            "position": "shooting guard",
+            "club": "Fenerbahce Beko"
+        }
+    ] 
+  },
+  {
+    "country": "Slovenia",
+    "players": [
+        {
+            "name": "Luka Doncic",
+            "height": "201 cm",
+            "age": 23,
+            "position": "small forward",
+            "club": "Dallas Mavericks"
+        },
+        {
+            "name": "Goran Dragic",
+            "height": "190 cm",
+            "age": 35,
+            "position": "point guard",
+            "club": "Chicago Bulls"
+        },
+        {
+            "name": "Vlatko Cancar",
+            "height": "203 cm",
+            "age": 25,
+            "position": "small forward",
+            "club": "Denver Nuggets"
+        },
+        {
+            "name": "Klemen Prepelic",
+            "height": "189 cm",
+            "age": 29,
+            "position": "shooting guard",
+            "club": "Valencia Basket"
+        },
+        {
+            "name": "Mike Tobey",
+            "height": "213 cm",
+            "age": 27,
+            "position": "center",
+            "club": "FC Barcelona"
+        }
+    ] 
+  }
+
+]
