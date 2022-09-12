@@ -57,7 +57,7 @@ app.get("/:country/:player", (req, res) => {
             );
     }
     console.log("player details ", player);
-    res.status.send(player);
+    res.status(200).send(player);
 });
 
 app.delete("/:country/:player", (req, res) => {
