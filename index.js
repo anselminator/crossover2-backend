@@ -5,7 +5,7 @@ const cors = require('cors');
 
 const port = process.env.PORT || 5000;
 
-const players = require("../basketballPlayers.json");
+const players = require("./basketballPlayers.json");
 
 app.get("/", (req,res) => {
     const countries = players.map((country) => country.country);
